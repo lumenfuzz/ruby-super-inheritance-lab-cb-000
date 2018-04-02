@@ -9,3 +9,5 @@ class ChattyStudent < Student
     super
     "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"
   end
+
+end
